@@ -22,15 +22,6 @@ Still trying. Still suffering. Still learning.
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,go,js,lua" />
 </p>
 
-- Python  
-- Java  
-- C++  
-- C  
-- Golang  
-- JavaScript  
-- x86 Assembly  
-- A little bit of Lua  
-
 ---
 
 ## 🌐 Main Web Dev Stack
@@ -64,13 +55,3 @@ Still trying. Still suffering. Still learning.
 
 ## 😎 Fun Fact
 I write code that sometimes works, but I have *no idea why*.
-
----
-
-### 💬 Want this readme customized?
-Just tell me:
-- a different username
-- extra sections
-- custom color themes
-- your socials
-- or even a more chaotic tone 🚀
