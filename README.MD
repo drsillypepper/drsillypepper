@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm DrSillyPepper</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp4cW1kdXhxZWduYWpuNWR5b2J3NjRqc2pxa3g5cWppbTlzZGl2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vhVqLusS4KkGA/giphy.gif" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNHVoaGhsdGY0b3p3OXZleTliZ2k5azh2NXdrNnpyNzB2cDc0YnkzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11v8gJRwB2fE3u/giphy.gif" width="300"/>
 </p>
 
 ---
